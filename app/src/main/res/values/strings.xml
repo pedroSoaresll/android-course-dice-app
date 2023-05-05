@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_one">Dice one</string>
+    <string name="dice_two">Dice two</string>
+    <string name="dice_three">Dice three</string>
+    <string name="dice_five">Dice five</string>
+    <string name="dice_six">Dice six</string>
+    <string name="dice_four">Dice four</string>
+</resources>
